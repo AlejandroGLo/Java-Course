@@ -1,5 +1,3 @@
-package Loops;
-
 public class Challenge {
     public static void main(String [] args){
         /*int n = 5;
