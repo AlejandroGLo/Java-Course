@@ -40,6 +40,7 @@ public class Overriding2 {
         // Here we use the reference of the super class, we can hold the object of the subclass,
         // but can only run the methods already defined of the superclass
         //However, the SmartTV methods are called because the object is of the SmartTV
+        // We can't have a sub class reference and have an object of super class. But it works viceversa
 
     }
     
