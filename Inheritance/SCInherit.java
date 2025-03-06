@@ -1,4 +1,4 @@
-package Inheritance;
+
 
 class Account {
     private String accNo;

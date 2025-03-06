@@ -1,4 +1,4 @@
-package Inheritance;
+
 
 class Circle{
     public double radius;
