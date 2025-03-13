@@ -48,7 +48,7 @@ public class Challenge {
             st.push(15);
         }
         catch(StackOverFlow s){
-            System.out.println(s)
+            System.out.println(s);
         }
     }
     
