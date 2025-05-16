@@ -24,7 +24,7 @@ public class BufferedDemo {
         System.out.println("Buffer " +bis.markSupported()); //true is supported
 
 
-        System.out.println("String "+bis.readLine());
+        System.out.println("String ok "+bis.readLine());
 
     }
 }
