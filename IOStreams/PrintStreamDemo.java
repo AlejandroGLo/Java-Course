@@ -8,7 +8,7 @@ class Student{
 
 public class PrintStreamDemo {
     public static void main(String args[]) throws Exception{
-        FileOutputStream fos = new FileOutputStream("Path");
+        FileOutputStream fos = new FileOutputStream("Path"); //Output = Writing Input = Reading
         PrintStream ps = new PrintStream(fos);
 
         Student s = new Student();
