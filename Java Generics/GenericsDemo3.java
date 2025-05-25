@@ -18,3 +18,9 @@ public class GenericsDemo3 {
         fun(ma2);
     }
 }
+
+//Lower bound we use super
+//Upper bound we use extends
+
+
+
